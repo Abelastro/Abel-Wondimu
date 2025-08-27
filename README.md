@@ -1,25 +1,27 @@
 Welcome to My GitHub! 👋
-=====================================
-I'm Abel Wondimu, a dedicated developer with a passion for creating innovative solutions in web design, computer vision, and robotics. With a foundation in Python, JavaScript, and C++, I build responsive web applications using React and Tailwind CSS, develop cutting-edge computer vision models with OpenCV and PyTorch, and design autonomous systems using ROS and Arduino. My projects blend creativity and technical expertise to tackle real-world challenges, from crafting stunning user interfaces to enabling robots to navigate complex environments. I’m driven by a love for learning and pushing the boundaries of technology, whether it’s implementing YOLO for real-time object detection or building a ROS-based robotic navigation system. Explore my repositories to see my work in action, including portfolio websites, object detection systems, and robotic prototypes. I’m excited to collaborate with developers, researchers, and innovators—check out my featured projects below for a deeper dive into my skills and contributions. Want to know more? Scroll down for details on my projects, skills, and how to connect with me!
-
+I'm Abel Wondimu, an AI-driven developer passionate about building innovative solutions in artificial intelligence, web design, computer vision, and robotics. My expertise spans Python, JavaScript, and C++, enabling me to create responsive web applications, advanced AI models, and autonomous robotic systems.
 🔧 Skills
 
 Languages: Python, JavaScript, C++
 Web Design: HTML, CSS, React, Tailwind CSS
-Computer Vision: OpenCV, PyTorch, YOLO, Mask R-CNN
+Artificial Intelligence: TensorFlow, PyTorch, LangChain, Hugging Face
+Computer Vision: OpenCV, YOLO, Mask R-CNN, CNNs
 Robotics: ROS, Gazebo, Arduino
 Tools: Git, Docker, AWS
 
 🌟 Featured Projects
 
-Portfolio Website: A responsive portfolio site built with React and Tailwind CSS.
+Tomato Disease Agent Bot: A Streamlit-based chatbot leveraging Retrieval-Augmented Generation (RAG) and a CNN model to detect tomato diseases and provide treatment guidance.
+CNN Plant Disease Classifier: A deep learning model for classifying tomato leaf diseases with high accuracy.
 Object Detection System: Real-time object detection using YOLOv5 and OpenCV.
 Autonomous Robot: A ROS-based navigation system for a differential drive robot.
 
 📫 Connect with Me
 
 LinkedIn
-X
-Portfolio
+X (Twitter)
+GitHub Projects
 
-Thanks for visiting—explore my repositories and reach out for collaborations!
+🚀 About Me
+I’m driven by a passion for learning and pushing the boundaries of technology. My projects blend creativity and technical expertise to solve real-world challenges, from developing intelligent chatbots to enabling robots to navigate complex environments. Explore my repositories to see my work in action, and feel free to reach out for collaborations!
+Thanks for visiting — let’s build something amazing together!
