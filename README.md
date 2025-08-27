@@ -21,8 +21,8 @@ I'm **Abel Wondimu**, an AI-driven developer passionate about building innovativ
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/abelwondimu/?trk=opento_sprofile_topcard)
-- [X (Twitter)](#)
-- [GitHub Projects](#)
+- [X (Twitter)]([#](https://x.com/gravitonpy))
+
 
 ## 🚀 About Me
 
